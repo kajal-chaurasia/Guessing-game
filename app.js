@@ -17,12 +17,3 @@ button.addEventListener("click", function(){
   input.value ="";
 });
 
-// while( (guess!=favMovie) && (guess!="quit")){
-//    guess= prompt("wrong guess! Please try again");
-// }
-
-// if(guess==favMovie){
-//   console.log("congrats!");
-// }else {
-//   console.log("You quit")
-// }
